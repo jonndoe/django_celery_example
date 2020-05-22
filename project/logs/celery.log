@@ -35,3 +35,7 @@
 [2020-05-22 08:28:56,508: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[a0030e6c-179b-4d9b-9170-e6f729d54631] succeeded in 10.01419362300021s: True
 [2020-05-22 08:28:57,078: INFO/ForkPoolWorker-6] Task tasks.sample_tasks.create_task[0c315179-2f3c-4cca-a040-2fadb0a7d60a] succeeded in 10.00858258900007s: True
 [2020-05-22 08:28:57,597: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[92d2eccb-f613-4ec0-8281-bb0c356d6983] succeeded in 10.013607443000183s: True
+[2020-05-22 09:16:32,753: INFO/MainProcess] Received task: tasks.sample_tasks.create_task[c471135a-9210-4bdb-8361-9d7a5961c2a3]  
+[2020-05-22 09:16:32,755: INFO/ForkPoolWorker-6] Task tasks.sample_tasks.create_task[c471135a-9210-4bdb-8361-9d7a5961c2a3] succeeded in 0.0006155689998195157s: True
+[2020-05-22 09:17:28,818: INFO/MainProcess] Received task: tasks.sample_tasks.create_task[5f9495b7-f05f-492a-b197-e2fdbc12d2fa]  
+[2020-05-22 09:17:28,820: INFO/ForkPoolWorker-6] Task tasks.sample_tasks.create_task[5f9495b7-f05f-492a-b197-e2fdbc12d2fa] succeeded in 0.0007706840005994309s: True
